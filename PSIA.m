@@ -1,8 +1,8 @@
 clear all;  clc;
 
 % the PSIA algorithm to identify subnetworks
-load C01_4_548_1391_22_0; % load the drug similarity network
-dataname='C01_4_548_1391_22_0'; % the label of the saved result/data
+load D_01_b; % load the drug similarity network
+dataname='D_01_b'; % the label of the saved result/data
 
 
 % initialization
